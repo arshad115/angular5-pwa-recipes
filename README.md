@@ -7,4 +7,6 @@ A realtime Recipes Progressive Web App using:
 - AngularFire2
 - Lighthouse: 100 PWA  | ~90 Performance
 
+App will use an API hosted on Firebase Realtime Database. Hosted on Firebase.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0-rc.0.
